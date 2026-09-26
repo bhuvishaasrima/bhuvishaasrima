@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# Bhuvishaa Sri MA
+<h1>Bhuvishaa Sri MA</h1>
 
-### Electronics & Communication Engineering
+<h3>Electronics & Communication Engineering</h3>
 
 <p>
   <a href="https://github.com/bhuvishaasrima">
@@ -37,21 +37,21 @@ I am particularly drawn to the design of electronic systems that bring together 
 <tr>
 <td align="center" width="33%">
 
-### Digital VLSI
+<h3>Digital VLSI</h3>
 
 Digital logic, RTL design, and hardware architecture.
 
 </td>
 <td align="center" width="33%">
 
-### FPGA
+<h3>FPGA</h3>
 
 Reconfigurable hardware and digital system implementation.
 
 </td>
 <td align="center" width="33%">
 
-### Embedded Systems
+<h3>Embedded Systems</h3>
 
 Hardware-software integration and electronic system development.
 
@@ -60,21 +60,21 @@ Hardware-software integration and electronic system development.
 <tr>
 <td align="center" width="33%">
 
-### Computer Architecture
+<h3>Computer Architecture</h3>
 
 Processor design, instruction execution, and digital systems.
 
 </td>
 <td align="center" width="33%">
 
-### Signal Processing
+<h3>Signal Processing</h3>
 
 Digital signal processing, mathematical modeling, and real-time computation.
 
 </td>
 <td align="center" width="33%">
 
-### PCB Design
+<h3>PCB Design</h3>
 
 Schematic design, PCB layout, and electronic circuit implementation.
 
@@ -88,40 +88,56 @@ Schematic design, PCB layout, and electronic circuit implementation.
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### EDA & Design Tools
-
-<p>
-<img src="https://img.shields.io/badge/KiCad-181717?style=flat-square&logo=kicad&logoColor=F28AB2" alt="KiCad">
-<img src="https://img.shields.io/badge/OrCAD-181717?style=flat-square&logoColor=F28AB2" alt="OrCAD">
-<img src="https://img.shields.io/badge/Gowin%20EDA-181717?style=flat-square&logoColor=F28AB2" alt="Gowin EDA">
-<img src="https://img.shields.io/badge/MATLAB-181717?style=flat-square&logo=mathworks&logoColor=F28AB2" alt="MATLAB">
-<img src="https://img.shields.io/badge/Arduino%20IDE-181717?style=flat-square&logo=arduino&logoColor=F28AB2" alt="Arduino IDE">
-</p>
-
-### Programming Languages
+<h3>EDA & Design Tools</h3>
 
 <p>
-<img src="https://img.shields.io/badge/C-181717?style=flat-square&logo=c&logoColor=F28AB2" alt="C">
-<img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=F28AB2" alt="Python">
-<img src="https://img.shields.io/badge/Java-181717?style=flat-square&logo=openjdk&logoColor=F28AB2" alt="Java">
-<img src="https://img.shields.io/badge/Verilog-181717?style=flat-square&logoColor=F28AB2" alt="Verilog">
+<img src="https://img.shields.io/badge/KiCad-F28AB2?style=flat-square&logo=kicad&logoColor=181717" alt="KiCad">
+<img src="https://img.shields.io/badge/OrCAD-F28AB2?style=flat-square&logoColor=181717" alt="OrCAD">
+<img src="https://img.shields.io/badge/Gowin%20EDA-F28AB2?style=flat-square&logoColor=181717" alt="Gowin EDA">
+<img src="https://img.shields.io/badge/MATLAB-F28AB2?style=flat-square&logo=mathworks&logoColor=181717" alt="MATLAB">
+<img src="https://img.shields.io/badge/Arduino%20IDE-F28AB2?style=flat-square&logo=arduino&logoColor=181717" alt="Arduino IDE">
 </p>
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Hardware & Engineering
+<h3>Programming Languages</h3>
 
-- PCB Design & Layout
-- Digital Logic Design
-- RTL Design & Verification
-- FPGA Development
-- Embedded Systems
-- Digital Signal Processing
-- Computer Architecture
-- Electronic Circuit Design
+<p>
+<img src="https://img.shields.io/badge/C-F28AB2?style=flat-square&logo=c&logoColor=181717" alt="C">
+<img src="https://img.shields.io/badge/Python-F28AB2?style=flat-square&logo=python&logoColor=181717" alt="Python">
+<img src="https://img.shields.io/badge/Java-F28AB2?style=flat-square&logo=openjdk&logoColor=181717" alt="Java">
+<img src="https://img.shields.io/badge/Verilog-F28AB2?style=flat-square&logoColor=181717" alt="Verilog">
+</p>
+
+</td>
+</tr>
+</table>
+
+<h3>Core Engineering Skills</h3>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<ul>
+<li>PCB Design & Layout</li>
+<li>Digital Logic Design</li>
+<li>RTL Design & Verification</li>
+<li>FPGA Development</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<ul>
+<li>Embedded Systems</li>
+<li>Digital Signal Processing</li>
+<li>Computer Architecture</li>
+<li>Electronic Circuit Design</li>
+</ul>
 
 </td>
 </tr>
@@ -135,44 +151,52 @@ Schematic design, PCB layout, and electronic circuit implementation.
 <tr>
 <td width="50%" valign="top">
 
-### Digital Hardware Design
+<h3>Digital Hardware Design</h3>
 
-- Combinational and sequential logic
-- Finite state machines
-- RTL modeling and simulation
-- Processor datapaths and control logic
+<ul>
+<li>Combinational and sequential logic</li>
+<li>Finite state machines</li>
+<li>RTL modeling and simulation</li>
+<li>Processor datapaths and control logic</li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
-### FPGA & Embedded Systems
+<h3>FPGA & Embedded Systems</h3>
 
-- FPGA-based digital systems
-- Hardware-software interfacing
-- Memory-mapped peripherals
-- Real-time hardware implementation
+<ul>
+<li>FPGA-based digital systems</li>
+<li>Hardware-software interfacing</li>
+<li>Memory-mapped peripherals</li>
+<li>Real-time hardware implementation</li>
+</ul>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Signal Processing
+<h3>Signal Processing</h3>
 
-- Digital filters
-- FFT and frequency-domain analysis
-- Fixed-point arithmetic
-- Hardware acceleration of DSP algorithms
+<ul>
+<li>Digital filters</li>
+<li>FFT and frequency-domain analysis</li>
+<li>Fixed-point arithmetic</li>
+<li>Hardware acceleration of DSP algorithms</li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
-### Electronic System Design
+<h3>Electronic System Design</h3>
 
-- Schematic capture
-- PCB layout and routing
-- Circuit design and integration
-- Hardware prototyping
+<ul>
+<li>Schematic capture</li>
+<li>PCB layout and routing</li>
+<li>Circuit design and integration</li>
+<li>Hardware prototyping</li>
+</ul>
 
 </td>
 </tr>
@@ -182,6 +206,6 @@ Schematic design, PCB layout, and electronic circuit implementation.
 
 <div align="center">
 
-**Designs begin where assumptions end.**
+<h3>Designs begin where assumptions end.</h3>
 
 </div>
