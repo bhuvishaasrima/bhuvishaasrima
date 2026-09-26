@@ -6,6 +6,12 @@
 <h3>Electronics & Communication Engineering</h3>
 
 <p>
+  <img src="https://img.shields.io/badge/ELECTRONICS-181717?style=for-the-badge&labelColor=F28AB2&color=181717" alt="Electronics">
+  <img src="https://img.shields.io/badge/DIGITAL_HARDWARE-181717?style=for-the-badge&labelColor=C0A1B3&color=181717" alt="Digital Hardware">
+  <img src="https://img.shields.io/badge/ENGINEERING-181717?style=for-the-badge&labelColor=999999&color=181717" alt="Engineering">
+</p>
+
+<p>
   <a href="https://github.com/bhuvishaasrima">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=F28AB2" alt="GitHub">
   </a>
@@ -21,7 +27,7 @@
 
 ---
 
-## About Me
+<h2>About Me</h2>
 
 I'm Bhuvishaa, an Electronics and Communication Engineering student at Thiagarajar College of Engineering.
 
@@ -31,13 +37,17 @@ I am particularly drawn to the design of electronic systems that bring together 
 
 ---
 
-## Technical Interests
+<h2>Technical Interests</h2>
 
 <table>
 <tr>
 <td align="center" width="33%">
 
 <h3>Digital VLSI</h3>
+
+<img src="https://img.shields.io/badge/RTL_Design-F28AB2?style=flat-square&labelColor=181717" alt="RTL Design">
+
+<br><br>
 
 Digital logic, RTL design, and hardware architecture.
 
@@ -46,12 +56,20 @@ Digital logic, RTL design, and hardware architecture.
 
 <h3>FPGA</h3>
 
+<img src="https://img.shields.io/badge/Reconfigurable_Hardware-C0A1B3?style=flat-square&labelColor=181717" alt="Reconfigurable Hardware">
+
+<br><br>
+
 Reconfigurable hardware and digital system implementation.
 
 </td>
 <td align="center" width="33%">
 
 <h3>Embedded Systems</h3>
+
+<img src="https://img.shields.io/badge/Hardware--Software-999999?style=flat-square&labelColor=181717" alt="Hardware Software">
+
+<br><br>
 
 Hardware-software integration and electronic system development.
 
@@ -62,6 +80,10 @@ Hardware-software integration and electronic system development.
 
 <h3>Computer Architecture</h3>
 
+<img src="https://img.shields.io/badge/Processor_Design-F28AB2?style=flat-square&labelColor=181717" alt="Processor Design">
+
+<br><br>
+
 Processor design, instruction execution, and digital systems.
 
 </td>
@@ -69,12 +91,20 @@ Processor design, instruction execution, and digital systems.
 
 <h3>Signal Processing</h3>
 
+<img src="https://img.shields.io/badge/DSP-C0A1B3?style=flat-square&labelColor=181717" alt="DSP">
+
+<br><br>
+
 Digital signal processing, mathematical modeling, and real-time computation.
 
 </td>
 <td align="center" width="33%">
 
 <h3>PCB Design</h3>
+
+<img src="https://img.shields.io/badge/PCB_Layout-999999?style=flat-square&labelColor=181717" alt="PCB Layout">
+
+<br><br>
 
 Schematic design, PCB layout, and electronic circuit implementation.
 
@@ -84,7 +114,7 @@ Schematic design, PCB layout, and electronic circuit implementation.
 
 ---
 
-## Technical Toolkit
+<h2>Technical Toolkit</h2>
 
 <table>
 <tr>
@@ -93,11 +123,11 @@ Schematic design, PCB layout, and electronic circuit implementation.
 <h3>EDA & Design Tools</h3>
 
 <p>
-<img src="https://img.shields.io/badge/KiCad-F28AB2?style=flat-square&logo=kicad&logoColor=181717" alt="KiCad">
-<img src="https://img.shields.io/badge/OrCAD-F28AB2?style=flat-square&logoColor=181717" alt="OrCAD">
-<img src="https://img.shields.io/badge/Gowin%20EDA-F28AB2?style=flat-square&logoColor=181717" alt="Gowin EDA">
-<img src="https://img.shields.io/badge/MATLAB-F28AB2?style=flat-square&logo=mathworks&logoColor=181717" alt="MATLAB">
-<img src="https://img.shields.io/badge/Arduino%20IDE-F28AB2?style=flat-square&logo=arduino&logoColor=181717" alt="Arduino IDE">
+<img src="https://img.shields.io/badge/KiCad-181717?style=flat-square&logo=kicad&logoColor=F28AB2" alt="KiCad">
+<img src="https://img.shields.io/badge/OrCAD-181717?style=flat-square&logoColor=F28AB2" alt="OrCAD">
+<img src="https://img.shields.io/badge/Gowin%20EDA-181717?style=flat-square&logoColor=F28AB2" alt="Gowin EDA">
+<img src="https://img.shields.io/badge/MATLAB-181717?style=flat-square&logo=mathworks&logoColor=F28AB2" alt="MATLAB">
+<img src="https://img.shields.io/badge/Arduino%20IDE-181717?style=flat-square&logo=arduino&logoColor=F28AB2" alt="Arduino IDE">
 </p>
 
 </td>
@@ -106,10 +136,10 @@ Schematic design, PCB layout, and electronic circuit implementation.
 <h3>Programming Languages</h3>
 
 <p>
-<img src="https://img.shields.io/badge/C-F28AB2?style=flat-square&logo=c&logoColor=181717" alt="C">
-<img src="https://img.shields.io/badge/Python-F28AB2?style=flat-square&logo=python&logoColor=181717" alt="Python">
-<img src="https://img.shields.io/badge/Java-F28AB2?style=flat-square&logo=openjdk&logoColor=181717" alt="Java">
-<img src="https://img.shields.io/badge/Verilog-F28AB2?style=flat-square&logoColor=181717" alt="Verilog">
+<img src="https://img.shields.io/badge/C-181717?style=flat-square&logo=c&logoColor=F28AB2" alt="C">
+<img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=F28AB2" alt="Python">
+<img src="https://img.shields.io/badge/Java-181717?style=flat-square&logo=openjdk&logoColor=F28AB2" alt="Java">
+<img src="https://img.shields.io/badge/Verilog-181717?style=flat-square&logoColor=F28AB2" alt="Verilog">
 </p>
 
 </td>
@@ -145,13 +175,15 @@ Schematic design, PCB layout, and electronic circuit implementation.
 
 ---
 
-## Areas of Technical Exploration
+<h2>Areas of Technical Exploration</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <h3>Digital Hardware Design</h3>
+
+<img src="https://img.shields.io/badge/DIGITAL-181717?style=flat-square&labelColor=F28AB2" alt="Digital">
 
 <ul>
 <li>Combinational and sequential logic</li>
@@ -164,6 +196,8 @@ Schematic design, PCB layout, and electronic circuit implementation.
 <td width="50%" valign="top">
 
 <h3>FPGA & Embedded Systems</h3>
+
+<img src="https://img.shields.io/badge/FPGA-181717?style=flat-square&labelColor=C0A1B3" alt="FPGA">
 
 <ul>
 <li>FPGA-based digital systems</li>
@@ -179,6 +213,8 @@ Schematic design, PCB layout, and electronic circuit implementation.
 
 <h3>Signal Processing</h3>
 
+<img src="https://img.shields.io/badge/DSP-181717?style=flat-square&labelColor=999999" alt="DSP">
+
 <ul>
 <li>Digital filters</li>
 <li>FFT and frequency-domain analysis</li>
@@ -190,6 +226,8 @@ Schematic design, PCB layout, and electronic circuit implementation.
 <td width="50%" valign="top">
 
 <h3>Electronic System Design</h3>
+
+<img src="https://img.shields.io/badge/PCB-181717?style=flat-square&labelColor=F28AB2" alt="PCB">
 
 <ul>
 <li>Schematic capture</li>
@@ -206,6 +244,10 @@ Schematic design, PCB layout, and electronic circuit implementation.
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━-F28AB2?style=flat-square" alt="Pink divider">
+
 <h3>Designs begin where assumptions end.</h3>
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━-C0A1B3?style=flat-square" alt="Rose divider">
 
 </div>
